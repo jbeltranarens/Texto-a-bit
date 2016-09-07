@@ -1,4 +1,4 @@
-# Texto-a-bit
+# Texto-a-binario
 Cabros este es el ejemplo que les decia, y el conversor.
 
 
